@@ -12,3 +12,11 @@ El proyecto consta de los siguientes archivos:
 - **`vieworders.php`**: Muestra el detalle de los pedidos realizados y almacenados en el archivo de texto para revisión.
 
 ## Funcionalidades
+
+- **Realizar Pedido**: Los clientes pueden seleccionar productos como llantas, botellas de aceite y bujías, y hacer un pedido
+   utilizando el formulario en `orderform.html`.
+- **Procesamiento de Pedido**: El archivo `processorder.php` maneja la lógica del pedido, calcula los totales y genera una
+   respuesta con el resumen del pedido.
+- **Almacenamiento de Pedido**: Los pedidos realizados se almacenan en un archivo de texto ubicado en el servidor para su
+  posterior revisión.
+- **Visualización de Pedidos**: A través de `vieworders.php`, se pueden consultar todos los pedidos almacenados en el archivo.
