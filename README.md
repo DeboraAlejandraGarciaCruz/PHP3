@@ -16,8 +16,10 @@ El proyecto consta de los siguientes archivos:
    utilizando el formulario en `orderform.html`.
 - **Procesamiento de Pedido**: El archivo `processorder.php` maneja la lógica del pedido, calcula los totales y genera una
    respuesta con el resumen del pedido.
-  - **Almacenamiento de Pedido**: Los pedidos realizados se almacenan en un archivo de texto ubicado en el servidor para su
+- **Almacenamiento de Pedido**: Los pedidos realizados se almacenan en un archivo de texto ubicado en el servidor para su
   posterior revisión.
+- **Visualización de Pedidos**: A través de `vieworders.php`, se pueden consultar todos los pedidos almacenados en el archivo.
+
 
 
 
