@@ -30,6 +30,7 @@ El proyecto consta de los siguientes archivos:
 7. Para ver todos los pedidos realizados, abre vieworders.php en el navegador.
 
 ## Requisitos
+*PHP*: El servidor debe tener PHP instalado y configurado.
 
 
 
