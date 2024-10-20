@@ -24,6 +24,8 @@ El proyecto consta de los siguientes archivos:
 1. **Descarga o clona el repositorio** en tu servidor local.
 2. Asegúrate de tener configurado un entorno de servidor web con soporte para PHP (como XAMPP o WAMP).
 3. Coloca los archivos del proyecto en la carpeta del servidor (usualmente htdocs para XAMPP).
+4. Navega a orderform.html en tu navegador para realizar un pedido.
+
 
 
 
