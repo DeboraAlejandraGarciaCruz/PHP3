@@ -25,6 +25,7 @@ El proyecto consta de los siguientes archivos:
 2. Asegúrate de tener configurado un entorno de servidor web con soporte para PHP (como XAMPP o WAMP).
 3. Coloca los archivos del proyecto en la carpeta del servidor (usualmente htdocs para XAMPP).
 4. Navega a orderform.html en tu navegador para realizar un pedido.
+5. Completa el formulario con la cantidad de productos y la dirección de envío.
 
 
 
