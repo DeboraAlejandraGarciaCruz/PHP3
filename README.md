@@ -27,6 +27,9 @@ El proyecto consta de los siguientes archivos:
 4. Navega a orderform.html en tu navegador para realizar un pedido.
 5. Completa el formulario con la cantidad de productos y la dirección de envío.
 6. Al enviar el formulario, el archivo processorder.php procesará el pedido y lo guardará en un archivo de texto.
+7. Para ver todos los pedidos realizados, abre vieworders.php en el navegador.
+
+
 
 
 
