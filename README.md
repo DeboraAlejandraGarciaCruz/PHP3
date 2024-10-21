@@ -33,6 +33,8 @@ El proyecto consta de los siguientes archivos:
 *PHP*: El servidor debe tener PHP instalado y configurado.7
 *Servidor Web*: Requiere un entorno como Apache para ejecutar archivos PHP.
 
+## Instalación
+
 
 
 
