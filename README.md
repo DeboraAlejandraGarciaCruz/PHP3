@@ -39,6 +39,7 @@ El proyecto consta de los siguientes archivos:
 2. Coloca los archivos en la carpeta raíz del servidor web (htdocs para XAMPP).
 3. Asegúrate de tener permisos de escritura en el servidor para guardar pedidos en el archivo de texto.
 
+## Ejemplo de Uso
 
 
 
