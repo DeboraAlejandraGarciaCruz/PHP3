@@ -40,7 +40,7 @@ El proyecto consta de los siguientes archivos:
 3. Asegúrate de tener permisos de escritura en el servidor para guardar pedidos en el archivo de texto.
 
 ## Ejemplo de Uso
-*Formulario de Pedido*:
+*Formulario de Pedido*: Completa las cantidades de productos y proporciona la dirección de envío en orderform.html.
 
 
 
