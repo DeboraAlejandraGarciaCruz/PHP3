@@ -44,6 +44,8 @@ El proyecto consta de los siguientes archivos:
 *Proceso del Pedido*: Revisa el resumen del pedido y los totales calculados en processorder.php.
 *Almacenamiento*: Los detalles del pedido se guardarán en el archivo de texto y podrán ser visualizados usando vieworders.php.
 
+## Autor
+Debora Alejandra Garcia Cruz
 
 
 
